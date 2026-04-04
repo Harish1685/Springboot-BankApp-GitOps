@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: bank-app
-          image: zorochan/bank-app:11
+          image: zorochan/bank-app:12
           ports:
             - containerPort: 8080
 
